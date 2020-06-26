@@ -65,5 +65,3 @@ func main() {
     fmt.Println("Hello World")
 }
 
-https://github.com/nic-delhi/AarogyaSetu_Android
-https://dzone.com/articles/scaling-microservices-the-challenges-and-solutions :)
